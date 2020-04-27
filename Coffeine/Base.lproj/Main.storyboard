@@ -83,10 +83,10 @@
             </objects>
             <point key="canvasLocation" x="1047.8260869565217" y="115.84821428571428"/>
         </scene>
-        <!--View Controller-->
+        <!--Graphs View Controller-->
         <scene sceneID="Dp6-EN-dwD">
             <objects>
-                <viewController id="qkf-Vs-LJ9" sceneMemberID="viewController">
+                <viewController id="qkf-Vs-LJ9" customClass="GraphsViewController" customModule="Coffeine" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="CSu-hL-8sP">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

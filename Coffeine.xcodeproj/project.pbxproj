@@ -14,6 +14,7 @@
 		8418C93424507A22000E5F8D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8418C93324507A22000E5F8D /* Assets.xcassets */; };
 		8418C93724507A22000E5F8D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8418C93524507A22000E5F8D /* LaunchScreen.storyboard */; };
 		8418C93F24507BC4000E5F8D /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8418C93E24507BC4000E5F8D /* Data.swift */; };
+		8418C94324571997000E5F8D /* GraphsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8418C94224571997000E5F8D /* GraphsViewController.swift */; };
 		D6A742DE5DA2150AD0A139B0 /* Pods_Coffeine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C17E6993884798548BD0A5C2 /* Pods_Coffeine.framework */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		8418C93624507A22000E5F8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8418C93824507A22000E5F8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8418C93E24507BC4000E5F8D /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		8418C94224571997000E5F8D /* GraphsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphsViewController.swift; sourceTree = "<group>"; };
 		C17E6993884798548BD0A5C2 /* Pods_Coffeine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Coffeine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				8418C92A24507A21000E5F8D /* AppDelegate.swift */,
 				8418C92C24507A21000E5F8D /* SceneDelegate.swift */,
 				8418C92E24507A21000E5F8D /* ViewController.swift */,
+				8418C94224571997000E5F8D /* GraphsViewController.swift */,
 				8418C93E24507BC4000E5F8D /* Data.swift */,
 				8418C93024507A21000E5F8D /* Main.storyboard */,
 				8418C93324507A22000E5F8D /* Assets.xcassets */,
@@ -211,6 +214,7 @@
 			files = (
 				8418C92F24507A21000E5F8D /* ViewController.swift in Sources */,
 				8418C92B24507A21000E5F8D /* AppDelegate.swift in Sources */,
+				8418C94324571997000E5F8D /* GraphsViewController.swift in Sources */,
 				8418C92D24507A21000E5F8D /* SceneDelegate.swift in Sources */,
 				8418C93F24507BC4000E5F8D /* Data.swift in Sources */,
 			);
